@@ -20,10 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools and Environments**:
-Git
-GitHub
-Unix/Linux
-Bash
+Git, GitHub, Unix/Linux, Bash
 
 **Interests**: Web development, automation, intelligent systems, user-focused design
 
