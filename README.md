@@ -26,12 +26,15 @@ Git, GitHub, Unix/Linux, Bash
 
 ## Featured Projects
 - **Rocket Club Website**
+  
   Website for my school's rocket club, showcasing team projects, events, and achievements. Built with HTML, CSS, and JavaScript.
   
 - **FYWY WiFi Company Website**
+  
   Professional website and database system for a Jamaican WiFi company, designed to improve customer experience and streamline operations.
   
 - **Personal Portfolio & AI Tools**
+  
   Currently building a personal portfolio website and exploring custom AI-powered tools for productivity and automation.
 
 Some of the above can also be seen in my repositories.
