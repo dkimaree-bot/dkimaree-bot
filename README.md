@@ -25,7 +25,16 @@ Git, GitHub, Unix/Linux, Bash
 **Interests**: Web development, automation, intelligent systems, user-focused design
 
 ## Featured Projects
-*(Real-world and personal projects will be listed here as they are finalized.)*
+- **Rocket Club Website**
+  Website for my school's rocket club, showcasing team projects, events, and achievements. Built with HTML, CSS, and JavaScript.
+  
+- **FYWY WiFi Company Website**
+  Professional website and database system for a Jamaican WiFi company, designed to improve customer experience and streamline operations.
+  
+- **Personal Portfolio & AI Tools**
+  Currently building a personal portfolio website and exploring custom AI-powered tools for productivity and automation.
+
+Some of the above can also be seen in my repositories.
 
 ## GitHub Stats
 
@@ -39,9 +48,16 @@ Git, GitHub, Unix/Linux, Bash
 
 ---
 
-💡 *Currently learning:* 
-🔭 *Working on:* 
+💡 *Currently learning:*
+- Advanced web development
+- AI/ML fundamentals
+- System design
 
+🔭 *Working on:* 
+- Rocket club website
+- Personal portfolio
+- FYWY WiFi platform (A Jamaican telecommunications company)
+- AI productivity tools
 
 ## Coursework
 
