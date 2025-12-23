@@ -39,9 +39,6 @@ Git, GitHub, Unix/Linux, Bash
 
 Some of the above can also be seen in my repositories.
 
-## GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dkimaree-bot&show_icons=true&theme=default)
 
 ## 📫 How to Reach Me
 
