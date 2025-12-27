@@ -48,12 +48,12 @@ Some of the above can also be seen in my repositories.
 
 ---
 
-💡 *Currently learning:*
+*Currently learning:*
 - Advanced web development
 - AI/ML fundamentals
 - System design
 
-🔭 *Working on:* 
+*Working on:* 
 - Rocket club website
 - Personal portfolio
 - FYWY WiFi platform (A Jamaican telecommunications company)
